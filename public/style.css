@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+h3 {
+  margin: 5px;
+}
+ol {
+  font-size: 12px;
+}
+code {
+  margin-left: 25px;
+}
+#convertField {
+  background-color: transparent;
+  border: none;
+  height: 23px;
+  border-bottom: solid;
+  border-width: thin;
+  border-color: blue;
+  color: blue;
+}
+#convert {
+  background-color: transparent;
+  border: solid;
+  border-radius: 4px;
+  height: 23px;
+  border-width: thin;
+  border-color: blue;
+  color: blue;
+  margin-left: 5px;
+}
